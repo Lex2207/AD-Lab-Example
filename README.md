@@ -13,7 +13,7 @@
 <img src="https://i.imgur.com/XHsyIVF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- Make sure the Domain controller VM has a static DNS IP address in order for our client obatin the correct information from the DNS server
+- Make sure the Domain controller VM has a static DNS IP address in order for our client obtain the correct information from the DNS server
 <p>
 <img src="https://i.imgur.com/KMe6Sfp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -63,20 +63,25 @@ Lastly, add client-11 to the Domain Controller
 
 
 <p>
-This section will show an example of creating a Group with Permissions for a user. I will try to access the "accounting folder" with my user without persmissions first and then add my user to the correct group to gain access to the to folder</p>
+This section will show an example of creating a Group with Permissions for a user. I will try to access the "accounting folder" with my user without persmissions first and then add my user to the correct group to gain access to the to folder. First, I try to open the Accounting folder but I do not have access as this user</p>
 <br 
 <p>
 <img src="https://i.imgur.com/cdporem.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+I added the "ACCOUNTANTS" group with the proper permissions for the accounting file (Read & Write)
 <p>
 <img src="https://i.imgur.com/HAv126Z.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://i.imgur.com/Rt7UQq7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+Add the user I want to be able to access the file. 
 <p>
 <img src="https://i.imgur.com/UQ07Zkw.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+Lasty, I log back in with the user I have put into the correct group with permissions to view and modify the accounting file.
 <p>
 <img src="https://i.imgur.com/L6vbY9S.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
