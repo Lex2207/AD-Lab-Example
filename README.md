@@ -10,7 +10,7 @@
 
 - 2 VMs connected on the same Network (DC-1 = Domain Controller Database VM) (Client-11 = Windows 10 VM)
 <p>
-<img src="https://i.imgur.com/XHsyIVF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pBOmABq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - Make sure the Domain controller VM has a static DNS IP address in order for our client obtain the correct information from the DNS server
