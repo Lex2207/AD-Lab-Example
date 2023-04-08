@@ -20,7 +20,7 @@
 
 - Check the Firewall on the Domain controller is set to enable the ICMP traffic in order for us to check the connectivity between the two systems 
 <p>
-<img src="https://i.imgur.com/q22RmfK.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2KKluYk.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://i.imgur.com/sAn3el0.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -31,11 +31,12 @@
 <img src="https://i.imgur.com/iTmjUFE.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/CU0jsZ7.jpg" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0OsZkUf.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/2jNoe6q.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7lNoH2B.jpg" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 
 Check to make sure that the client VM has been joined to the Domain Controller (using the DC DNS static IP) so the Client can use the DC DNS as its primary server.
 <p>
