@@ -39,10 +39,6 @@
 
 
 Check to make sure that the client VM has been joined to the Domain Controller (using the DC DNS static IP) so the Client can use the DC DNS as its primary server.
-<p>
-<img src="https://i.imgur.com/J5P9Fvh.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
 This is the ipconfig /all command on the Client VM before assigning the right DNS IP
 <p>
 <img src="https://i.imgur.com/grR9PaH.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
