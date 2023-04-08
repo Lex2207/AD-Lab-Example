@@ -1,4 +1,4 @@
-# AD-Lab-Example
+# Active-Directory-Lab
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
