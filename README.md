@@ -40,26 +40,26 @@
 
 Check to make sure that the client VM has been joined to the Domain Controller (using the DC DNS static IP) so the Client can use the DC DNS as its primary server.
 <p>
-<img src="https://i.imgur.com/MiHCb27.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J5P9Fvh.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 This is the ipconfig /all command on the Client VM before assigning the right DNS IP
 <p>
-<img src="https://i.imgur.com/zaEV0Fh.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/grR9PaH.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Here I went into Microsoft Azure to change the client VM DNS IP to the static IP we configured earlier within our DC-1 VM
 <p>
-<img src="https://i.imgur.com/nfqB44u.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/f7ZMrVo.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Once that is done, we can see the the DNS has been changed to the correct IP in our client command prompt.
 <p>
-<img src="https://i.imgur.com/qUhu3B6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ijLUQl2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 Lastly, add client-11 to the Domain Controller
 <p>
-<img src="https://i.imgur.com/estZCgj.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ab85vGJ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
