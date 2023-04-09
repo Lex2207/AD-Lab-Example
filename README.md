@@ -54,7 +54,7 @@ Once that is done, we can see the the DNS has been changed to the correct IP in 
 <p>
 Lastly, add client-11 to the Domain Controller
 <p>
-<img src="https://i.imgur.com/Ab85vGJ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/N1CCP8F.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
