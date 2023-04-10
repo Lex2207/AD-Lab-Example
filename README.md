@@ -6,9 +6,11 @@
 - Active Directory
 - DNS
 
+Summary: In this lab, I will demonstrate how to install the necessary prerequisites for Active Directory software on a Domain Controller in a VM environment. I will also provide an example of how to create a new user from an "employees" file and assign them to the appropriate group in order to access a specific file. 
+
 <h2>Active Directory Prerequisites</h2>
 
-- 2 VMs connected on the same Network (DC-1 = Domain Controller Database VM) (Client-11 = Windows 10 VM)
+- Make 2 VMs connected on the same Network (DC-1 = Domain Controller Database VM) (Client-11 = Windows 10 VM)
 <p>
 <img src="https://i.imgur.com/pBOmABq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
